@@ -90,3 +90,12 @@ AI extraction and OCR require review: names can change, dates can be ambiguous, 
 Use an isolated code copy with a new synthetic database and synthetic source files. Follow `DEMO-WALKTHROUGH.md`. Keep production databases, backups, personal documents, recordings, model caches and local secrets out of the repository. A Git ignore file does not remove files already tracked in Git history.
 
 Status: automated and manual acceptance complete with documented limitations; fresh virtual-environment checks passed on the original computer. This release includes the manual-test duplicate and answer-display fixes. Independent-machine setup and publication review remain. See `VALIDATION.md`.
+
+
+## Demo video
+
+[Watch or download the synthetic demo (MP4, 1:28)](https://github.com/vigilante-ilyas/second-brain/releases/download/v0.1.0/second-brain-demo-trimmed.mp4)
+
+The recording shows sourced answers, missing-information abstention, and repayment history using synthetic data. Long waiting periods were removed while retaining the original picture quality.
+
+[Release notes for v0.1.0](https://github.com/vigilante-ilyas/second-brain/releases/tag/v0.1.0)
