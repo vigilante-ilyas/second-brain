@@ -37,4 +37,4 @@ Use explicit dates. If recording after the debt's due date, replace it with a fu
 - Label the project as local-use software with no authentication or encryption.
 - Include tested setup prerequisites; finish the fresh-clone bootstrap check before offering a runnable public repository.
 
-This walkthrough is a recording plan. No demo video has been recorded or published yet.
+This document remains the full recording plan. A shorter [synthetic demo is available in the v0.1.0 release](https://github.com/vigilante-ilyas/second-brain/releases/tag/v0.1.0). The 1:28 clip shows sourced answers, missing-information abstention and repayment history; long waiting periods were removed while preserving picture quality.
